@@ -931,6 +931,10 @@ dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
 *.pexels.com
+api.pinterest.com
+*.pinterest.com
+microsoftedge.microsoft.com
+addons.mozilla.org
 pixabay.com
 *.pixabay.com
 my.planethoster.com
