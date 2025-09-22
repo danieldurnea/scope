@@ -226,7 +226,6 @@ np.*.lfscnp.com
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pexels.com
-*.pinterest.com
 *.pixabay.com
 *.points.com
 *.quizlet.com
@@ -1882,9 +1881,6 @@ api-businessportal.origin.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
-api.pinterest.com
-microsoftedge.microsoft.com
-addons.mozilla.org
 pixabay.com
 my.planethoster.com
 api.planethoster.net
@@ -2828,6 +2824,7 @@ testapp.redoxengine.com
 webhooks.gamma.redoxstage.com
 redoxengine.com
 okx.com
+microsoftedge.microsoft.com
 api.wisdomtreeprimeapp.com
 analvids.com
 ddfcontent.com
