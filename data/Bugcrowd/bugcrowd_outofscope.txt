@@ -134,6 +134,8 @@ play.nutaku.net
 *.nutaku.net
 pf.nutaku.com
 manage.probiller.com
+trafficjunky.com
+adultforce.com
 jobs.coinmarketcap.com
 support.binance
 binance.sg
@@ -272,7 +274,6 @@ supportnow.epam.com
 anywhere.epam.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
-icht.etsysecure.com
 exoscale.com
 community.exoscale.com
 academy.exoscale.com

@@ -24,6 +24,8 @@ portalapi.*.afterpay.com
 *.transangels.com
 *.tube8.com
 *.nutakupublishing.com
+*.trafficjunky.com
+*.adultforce.com
 *.backblazeb2.com
 *.backblaze.com
 *.binance.com
@@ -75,7 +77,6 @@ casino.*.betmgm.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
-*.etsy.com
 *.internal.exoscale.ch
 *.financialforce.com
 *.certinia.com
