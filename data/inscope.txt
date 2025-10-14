@@ -269,6 +269,8 @@ np.*.lfscnp.com
 *.s-cloud.net
 *.soundcloud.com
 *.services.repostnetwork.com
+*.square.com
+*.squareup.com
 *.statuspage.io
 *.api.t-mobile.com
 *.t-mobile.com
@@ -2040,6 +2042,9 @@ artists.soundcloud.com
 soundcloud.org
 api-docs.vaix.ai
 api.vaix.ai
+squareup.com
+square.online
+weebly.com
 manage.statuspage.io
 portal.lrs.t-mobile.com
 account.t-mobile.com
