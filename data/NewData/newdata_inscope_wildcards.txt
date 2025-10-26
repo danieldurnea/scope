@@ -1,2 +1,2 @@
-*.binance.com
-*.binance.us
+*.kwsdose.be
+*.playuzleuven.be
