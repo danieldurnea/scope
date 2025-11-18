@@ -542,7 +542,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -606,9 +605,9 @@ booking.*.sqills.com
 *.connect.coca-cola.com
 *.ccnag.com
 *.zabka-snrs.zabka.pl
-*.intigriti.io
-*.intigriti.me
 *.intigriti.net
+*.intigriti.me
+*.intigriti.io
 *.contentsquare.com
 *.cryptobox.com
 *.ercom.fr
