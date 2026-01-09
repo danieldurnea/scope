@@ -121,7 +121,6 @@ casino.*.betmgm.com
 *.jora.com
 *.jora.xyz
 *.thuisbezorgd.nl
-*.menulog.com.au
 *.takeaway.com
 *.skipthedishes.com
 *.just-eat.dk

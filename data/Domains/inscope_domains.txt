@@ -355,7 +355,6 @@ api-skipthedishes.skipthedishes.com
 i18n.api.just-eat.io
 cw-api.takeaway.com
 thuisbezorgd.nl
-menulog.com.au
 takeaway.com
 skipthedishes.com
 just-eat.dk
