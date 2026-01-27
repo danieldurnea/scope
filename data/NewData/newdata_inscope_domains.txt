@@ -1,1 +1,3 @@
-dashboard.pantheon.io
+api.privy.io
+home.privy.io
+recovery.privy.io
