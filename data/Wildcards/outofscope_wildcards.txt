@@ -549,12 +549,13 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
@@ -591,6 +592,10 @@ api.*.ec.ovotech
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
+*vintedpay.com
+*.homerr.com
+*.people.vinted
+*.vinted.ca
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
