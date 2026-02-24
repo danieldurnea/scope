@@ -1668,6 +1668,15 @@ stg-manage.autodesk.com
 help.usertesting.com
 usertesting.com
 qa.usertesting.com
+az-tools-p01.oportun.com
+creditcard.oportun.com
+offer.oportun.com
+jira.oportun.com
+juno-srs.oportun.com
+oe.oportun.com
+oe1.oportun.com
+quickapply.oportun.com
+space.oportun.com
 blog.bumble.com
 honey.bumble.com
 shop.bumble.com
