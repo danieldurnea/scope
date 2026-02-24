@@ -456,8 +456,8 @@ api.prod.svc.vintedpay.com
 callbacks.prod.svc.vintedpay.com
 *.homerr.com
 *vintedpay.com
-*.people.vinted
 *.vinted.ca
+*.people.vinted
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
