@@ -463,6 +463,7 @@ ic3.*.indriverapp.com
 *.newegg.ca
 *.newegg.com
 *.krisp.ai
+*.whatnot.com
 *.khealth.com
 *.khealth.io
 *.bingoblitz.com
@@ -1028,16 +1029,6 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be

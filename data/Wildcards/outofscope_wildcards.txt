@@ -330,6 +330,9 @@ bus.*.indrive.com
 *.cvs.com
 *.walgreens.com
 *.hcltechsw.com
+*.chealth.io
+*.currenthealth.com
+*.snap40.com
 *.atp-exodus.com
 *.mtnfootball.com
 *.acordocerto.com.br
@@ -535,7 +538,6 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
