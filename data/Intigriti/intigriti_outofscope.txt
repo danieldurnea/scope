@@ -1,7 +1,4 @@
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
+*.aikido.dev
 *.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com

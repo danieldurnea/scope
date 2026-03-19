@@ -1,1 +1,2 @@
-justonweb.be
+aikidosecurity.aikido
+app.aikido.dev
