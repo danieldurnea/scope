@@ -80,6 +80,7 @@ casino.*.betmgm.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
+*.staging.gearset.com
 *.central.arubanetworks.com
 *.cultbeauty.co.uk
 *.lookfantastic.com
@@ -1545,6 +1546,7 @@ flourish-user-preview.com
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
+staging.claytonapp.com
 app.glean.com
 bug-bounty-be.glean.com
 hostgator.com.br
