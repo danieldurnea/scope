@@ -1,3 +1,2 @@
-portal.exoscale.com
-exoscale.com
-community.exoscale.com
+simnext.bullish-test.com
+api.simnext.bullish-test.com
