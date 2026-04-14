@@ -1,2 +1,6 @@
-simnext.bullish-test.com
-api.simnext.bullish-test.com
+api.voiapp.io
+fm.voiapp.io
+mds.voiapp.io
+repair.voiweb.net
+report.voi.com
+voi.com
