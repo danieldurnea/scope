@@ -7,4 +7,3 @@ campus.datacamp.com
 practice.datacamp.com
 projects.datacamp.com
 datacamp.com
-my.eurid.eu
