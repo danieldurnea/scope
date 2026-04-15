@@ -1,7 +1,6 @@
 marketplace.visualstudio.com
 aikidosecurity.aikido
 app.aikido.dev
-github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -155,6 +154,7 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
+github.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
@@ -498,6 +498,9 @@ elvetino.ch
 sbbcargo.com
 transsicura.ch
 cz.skodaauto.myskoda
+app.nl.socialdeal
+socialdeal.nl
+whynot.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com

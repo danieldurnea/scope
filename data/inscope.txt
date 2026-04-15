@@ -5,10 +5,6 @@ portalapi.*.afterpay.com
 *.arloxcld.com
 *-prod.arlo.com
 *.arlocloud.com
-*.asana.plus
-*.app.asana.com
-*.asana.biz
-*asana.biz
 *.atlassian.com
 *.atl-paas.net
 *.atlassian.net
@@ -1332,9 +1328,6 @@ myapi.arlo.com
 arlo.com
 updates.arlo.com
 partnerapi.arlo.com
-app.asana.com
-asana.com
-form.asana.com
 admin.atlassian.com
 id.atlassian.com
 start.atlassian.com
@@ -5064,6 +5057,9 @@ elvetino.ch
 sbbcargo.com
 transsicura.ch
 cz.skodaauto.myskoda
+app.nl.socialdeal
+socialdeal.nl
+whynot.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com
