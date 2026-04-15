@@ -27,6 +27,10 @@ community.arlo.com
 investor.arlo.com
 research.arlo.com
 survey.arlo.com
+asana.com
+*.integrations.asana.plus
+asana.okta.com
+assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org

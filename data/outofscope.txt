@@ -1,6 +1,7 @@
 *.aiven.fi
 *.avns.net
 *.arlo.com
+*.integrations.asana.plus
 *.bitbucket.io
 *.trustwallet.com
 *.trustwalletapp.com
@@ -620,6 +621,9 @@ community.arlo.com
 investor.arlo.com
 research.arlo.com
 survey.arlo.com
+asana.com
+asana.okta.com
+assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org

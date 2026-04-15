@@ -1,6 +1,7 @@
 *.aiven.fi
 *.avns.net
 *.arlo.com
+*.integrations.asana.plus
 *.bitbucket.io
 *.trustwallet.com
 *.trustwalletapp.com
