@@ -1,6 +1,7 @@
 marketplace.visualstudio.com
 aikidosecurity.aikido
 app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -69,6 +70,16 @@ cloudways.com
 css-tricks.com
 *.dpgmedia.be
 *.dpgmedia.nl
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
+*.datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -131,6 +142,13 @@ app.reclaim.ai
 *.hellosign.com
 *.dash.ai
 docs.google.com
+my.eurid.eu
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
 itscope.com
 *.itscope.com
 itscope.de
@@ -154,7 +172,6 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
-github.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com

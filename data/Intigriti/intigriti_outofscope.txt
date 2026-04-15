@@ -27,6 +27,19 @@ texis.itcapital.io
 *.insky.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
+*.it.datacamp.com
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 github.com
@@ -59,6 +72,7 @@ registry.digitalocean.com
 *.doserverless-dev3.io
 driessen.nl
 docs.google.com
+*.yadifa.eu
 changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
