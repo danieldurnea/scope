@@ -1043,6 +1043,16 @@ ic3.*.indriverapp.com
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
+*.dash.ai
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1135,9 +1145,6 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net
@@ -1283,7 +1290,6 @@ ic3.*.indriverapp.com
 *.docswallet.com
 *.vfsglobal.by
 *.vfsai.com
-*.vidaxl.hk
 *.vidaxl.org
 *.vidaxl.io
 *.vidaxl.net

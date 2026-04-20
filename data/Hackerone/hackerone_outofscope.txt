@@ -250,6 +250,7 @@ demo.privy.io
 docs.privy.io
 privy.io
 dailypay.com
+iam.staging.dailypay.com
 ir.netflix.com
 ir.netflix.net
 netflixinvestor.com
