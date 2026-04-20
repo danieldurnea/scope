@@ -1039,6 +1039,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1053,6 +1054,12 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1078,6 +1085,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.gamma.nl
+*.gamma.be
+*.karwei.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.nl
+*.werkenbijgamma.be
+*.werkenbijkarwei.nl
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be
