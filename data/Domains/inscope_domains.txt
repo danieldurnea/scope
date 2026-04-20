@@ -1125,6 +1125,8 @@ dif.tech.plata
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
 affiliate.meesho.com
+investor.meesho.com
+meesho.io
 prod.meeshoapi.com
 superstoreapp.meesho.com
 supplier.meesho.com
@@ -3410,6 +3412,9 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 challenge-0426.intigriti.io
 api.cloudways.com
 developers.cloudways.com

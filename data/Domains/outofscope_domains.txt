@@ -698,6 +698,7 @@ rooms.docusign.com
 accounts.britishairways.com
 holiday.britishairways.com
 regionstest.com
+admin.meesho.io
 affiliate-c.meesho.com
 agency.meesho.com
 atlas.valmo.in
@@ -705,7 +706,6 @@ console.valmo.in
 di-prd-superset.meesho.com
 farmiso.meeshosupply.com
 grocery-supplier.meesho.com
-investor.meesho.com
 log10-web-staging.valmo.in
 warehouse.meesho.com
 lovable.app
@@ -2565,6 +2565,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com

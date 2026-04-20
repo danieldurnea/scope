@@ -197,7 +197,6 @@ argocd.*.uidapi.com
 *.account.docusign.com
 *.tucows.com
 *.meesho.com
-*.meesho.io
 *.meeshoaiservices.ai
 *.meeshoapi.com
 *.meeshogcp.in
@@ -540,6 +539,9 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -1314,6 +1316,7 @@ rooms.docusign.com
 accounts.britishairways.com
 holiday.britishairways.com
 regionstest.com
+admin.meesho.io
 affiliate-c.meesho.com
 agency.meesho.com
 atlas.valmo.in
@@ -1321,7 +1324,6 @@ console.valmo.in
 di-prd-superset.meesho.com
 farmiso.meeshosupply.com
 grocery-supplier.meesho.com
-investor.meesho.com
 log10-web-staging.valmo.in
 warehouse.meesho.com
 lovable.app
@@ -3181,6 +3183,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com
