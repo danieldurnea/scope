@@ -1406,8 +1406,6 @@ tracker.bugcrowd.com
 api.bugcrowd.com
 gov.bugcrowd.net
 identity.bugcrowd.com
-bullish.com
-investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
 canva.com
@@ -1483,6 +1481,12 @@ casino.bwin.com
 casino.sportingbet.com
 ladbrokes.com
 coral.co.uk
+partypoker.com
+galabingo.com
+partycasino.com
+bwin.com
+media.itsfogo.com
+galacasino.com
 epam.com
 projects.epam.com
 lab.epam.com
