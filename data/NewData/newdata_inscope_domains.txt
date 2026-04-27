@@ -1,2 +1,3 @@
-co.uk.getmondo
-monzo.com
+payment.backend-capital.com
+capital.com
+open-api.capital.com
