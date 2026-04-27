@@ -1332,6 +1332,7 @@ rooms.docusign.com
 accounts.britishairways.com
 holiday.britishairways.com
 regionstest.com
+platacard.mx
 admin.meesho.io
 affiliate-c.meesho.com
 agency.meesho.com
