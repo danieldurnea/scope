@@ -1,1 +1,4 @@
-parse.ly
+open.oppomobile.com
+c.realme.com
+community.oppo.com
+communityin.oppo.com

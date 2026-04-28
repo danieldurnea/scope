@@ -1157,7 +1157,11 @@ shop.whoop.com
 knowledge.hubspot.com
 chatspot.ai
 hubspot.net
+open.oppomobile.com
+c.realme.com
 cloud.oppo.com
+community.oppo.com
+communityin.oppo.com
 developers.oppomobile.com
 drp.myoppo.com
 e.oppo.com
