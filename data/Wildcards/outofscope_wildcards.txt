@@ -493,10 +493,6 @@ online.*.skybingo.com
 *.highrisehq.com
 *.email.shopify.com
 *.business.booking.com
-*.formassembly.com
-*.tfaforms.com
-*.tfaforms.net
-*.veerwest.com
 *.go.ubnt.com
 *.playcanvas.com
 *.roomvaluesteam.com
