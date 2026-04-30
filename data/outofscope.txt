@@ -1603,6 +1603,7 @@ docs.google.com
 npmjs.com
 permissionless.snaps.metamask.io
 portfolio.metamask.io
+app.metamask.io
 travel.metamask.io
 entravel.com
 connector.callsign.com
