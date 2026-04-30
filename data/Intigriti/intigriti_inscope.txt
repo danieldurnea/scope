@@ -1,6 +1,7 @@
+app.aikido.dev
 marketplace.visualstudio.com
 aikidosecurity.aikido
-app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -174,7 +175,6 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
-github.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
@@ -421,8 +421,6 @@ be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 mynexuz.be
 liquidfiles.nexuzhealth.com
-idp-contact.nexuzhealth.be
-media.nexuzhealth.be
 analytics.ninjakiwi.com
 api.ninjakiwi.com
 guts.ninjakiwi.com
