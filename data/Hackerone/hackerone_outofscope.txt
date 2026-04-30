@@ -317,10 +317,6 @@ support.worldcoin.com
 *.thebodyshop.qa
 crm.alshayamarketing.com
 thebodyshop.cz
-*.envira.es
-envira.global
-*.eurofins-digitaltesting.com
-*.sgs.com
 *.truist.com
 truist.com
 *.sixidmobile.com
