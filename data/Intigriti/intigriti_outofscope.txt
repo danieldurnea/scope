@@ -166,10 +166,10 @@ simscale.com
 kvadrat.no
 viavika.no
 *.tempo-team.de
-*.crewconnect.coca-cola.com
-*.connect.coca-cola.com
-*.ccnag.com
 limonsoda.cl
+*.ccnag.com
+*.connect.coca-cola.com
+*.crewconnect.coca-cola.com
 trouw.nl
 abonnement.trouw.nl
 elect.tweakers.net
