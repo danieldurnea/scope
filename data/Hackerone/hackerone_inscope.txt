@@ -2119,6 +2119,7 @@ neoket.net
 novel.pixiv.net
 pastela.app
 payment.pixiv.net
+premium.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
 pixiv.net
