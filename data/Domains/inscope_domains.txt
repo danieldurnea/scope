@@ -1762,7 +1762,7 @@ autopush.stage.mozaws.net
 updates-autopush.stage.mozaws.net
 relay.firefox.com
 relay.allizom.org
-dev.fxprivaterelay.nonprod.cloudops.mozgcp.net
+mozilla.github.io
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.allizom.org
 sync.services.mozilla.com
@@ -3728,16 +3728,6 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
-gamma.nl
-gamma.be
-karwei.nl
-kassa.gamma.nl
-kassa.gamma.be
-kassa.karwei.nl
-mijn.gamma.nl
-mijn.gamma.be
-mijn.karwei.nl
-irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
