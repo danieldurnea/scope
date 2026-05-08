@@ -1,2 +1,2 @@
-*.grwtrading.com
-*.dropxl.com
+*.monzo.com
+*.prod-ffs.io
