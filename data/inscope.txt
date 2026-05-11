@@ -885,9 +885,6 @@ ic3.*.indriverapp.com
 *.quora.com
 *.files.com
 *files.com
-*.scopely.com
-*.scopely.io
-*.withbuddies.com
 *.buddypress.org
 *.trac.wordpress.org
 *.svn.wordpress.org
@@ -4467,7 +4464,6 @@ my.exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
-air.com.bitrhymes.bingo
 bbpress.org
 profiles.wordpress.org
 trac.wordpress.org

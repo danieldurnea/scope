@@ -3174,7 +3174,6 @@ my.exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
-air.com.bitrhymes.bingo
 bbpress.org
 profiles.wordpress.org
 trac.wordpress.org
