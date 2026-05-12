@@ -4125,8 +4125,6 @@ lavender.five
 user-images.githubusercontent.com
 docs.google.com
 ibc.cosmos.network
-integration.md
-yubihsm.rs
 releases.md
 sandbox.affirm.com
 crypto.com
