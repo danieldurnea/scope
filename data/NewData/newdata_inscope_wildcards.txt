@@ -1,1 +1,3 @@
-*.ripe.net
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
