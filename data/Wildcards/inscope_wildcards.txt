@@ -17,8 +17,6 @@ portalapi.*.afterpay.com
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
-*.binance.com
-*.binance.us
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
@@ -1145,6 +1143,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net
