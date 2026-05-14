@@ -1,2 +1,8 @@
-*.binance.com
-*.binance.us
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
+*.kwsdose.be
+*.playuzleuven.be
