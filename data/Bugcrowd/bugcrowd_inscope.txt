@@ -511,8 +511,6 @@ keepersecurity.com
 microsoft.com
 docs.keeper.io
 kohls.com
-kucoin.com
-*.kucoin.com
 lastpass.com
 support.lastpass.com
 blog.lastpass.com
@@ -1035,6 +1033,8 @@ gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
 *.skyscanner.net
+blockexplorer.electroneum.com
+testnet-blockexplorer.electroneum.com
 snapnames.com
 namejet.com
 sophos.com

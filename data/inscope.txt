@@ -133,7 +133,6 @@ casino.*.betmgm.com
 *.designify.com
 *.kaleido.ai
 *.unscreen.com
-*.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
 *.carecredit.com.au
@@ -1648,7 +1647,6 @@ keepersecurity.com
 microsoft.com
 docs.keeper.io
 kohls.com
-kucoin.com
 lastpass.com
 support.lastpass.com
 blog.lastpass.com
@@ -2052,6 +2050,8 @@ skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
+blockexplorer.electroneum.com
+testnet-blockexplorer.electroneum.com
 snapnames.com
 namejet.com
 sophos.com
