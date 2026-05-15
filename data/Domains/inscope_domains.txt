@@ -163,6 +163,7 @@ coindesk.com
 business.comcast.com
 xfinity.com
 consensus2026.sandbox.events.coindesk.com
+console.delltechnologies.com
 docs.eazybi.com
 my.elementor.com
 go.elementor.com
@@ -3897,11 +3898,11 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-app.pdq.com
-portal.pdq.com
 a.simplemdm.com
 auth2.pdq.com
 library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 passport.peoplecert.org
 atv.peoplecert.org
