@@ -131,6 +131,7 @@ auth.*.latitudefinancial.com
 *.mobile.uscc.net
 *.mobile.uscc.com
 *.moengage.com
+*.engage.tesla.com
 *.myfourchette.com
 *.lafourchette.rest
 argocd.*.uidapi.com
@@ -546,6 +547,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -553,9 +555,8 @@ g.*.slackhq.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
 *.yadifa.eu
-*.grafana.com
-*.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
@@ -585,6 +586,10 @@ g.*.slackhq.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
+*.homerr.com
+*vintedpay.com
+*.vinted.ca
+*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
