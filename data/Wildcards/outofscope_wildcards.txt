@@ -41,6 +41,8 @@ hsd1.*.comcast.net
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
+*-sdb.kucoin.com
+*-sandbox.kucoin.com
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -55,7 +57,6 @@ auth.*.latitudefinancial.com
 *.lululemon.me
 *.nuinternational.com
 *.nat-a.nubank.com.br
-*.octopus.app
 *.okta.com
 *.trexcloud.com
 *.onetrust.com
@@ -537,6 +538,9 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -554,6 +558,7 @@ g.*.slackhq.com
 *.swop.com
 *.cineramabios.nl
 *.lxc.liferay.com
+*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com

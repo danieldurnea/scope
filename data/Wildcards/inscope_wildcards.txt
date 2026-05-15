@@ -133,6 +133,7 @@ casino.*.betmgm.com
 *.designify.com
 *.kaleido.ai
 *.unscreen.com
+*.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
 *.carecredit.com.au
@@ -190,7 +191,6 @@ np.*.lfscnp.com
 *.nu.com.mx
 *.nu.com.co
 *.nuinvest.com.br
-*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
@@ -456,6 +456,7 @@ ic3.*.indriverapp.com
 *.sidefx.com
 *.wellsfargo.com
 *.payoneer.com
+*.hel.io
 *.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
@@ -1027,6 +1028,9 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1107,6 +1111,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
@@ -1140,6 +1146,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net
