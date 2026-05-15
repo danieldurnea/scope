@@ -1,1 +1,5 @@
-console.delltechnologies.com
+cloudinary.com
+api.cloudinary.com
+res.cloudinary.com
+mediaflows.cloudinary.com
+dimensions.cloudinary.com
