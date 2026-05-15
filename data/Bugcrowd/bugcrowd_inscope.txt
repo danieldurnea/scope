@@ -777,6 +777,7 @@ nubank.com.co
 nuinvest.com.br
 *.nuinvest.com.br
 octopus.com
+*.octopus.com
 personal.trexcloud.com
 oktapreview.com
 pam.oktapreview.com
@@ -1132,12 +1133,6 @@ tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 secure.thefork.com
 payment.lafourchette.com
 api.thefork.io

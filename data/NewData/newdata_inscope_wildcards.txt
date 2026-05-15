@@ -1,10 +1,1 @@
-*.kucoin.com
-*.hel.io
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
-*.monzo.com
-*.prod-ffs.io
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.octopus.com
