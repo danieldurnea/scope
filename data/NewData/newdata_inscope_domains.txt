@@ -1,7 +1,10 @@
-docs.bugcrowd.com
-bugcrowd.com
-tracker.bugcrowd.com
-api.bugcrowd.com
-gov.bugcrowd.net
-identity.bugcrowd.com
-legacy-blockexplorer.electroneum.com
+dealflow.prosus.com
+dealflowapi.prosus.com
+analytics-admin.prosus.com
+analytics.prosus.com
+data.prosus.com
+hr.prosus.com
+tracker.naspers.com
+cfc.naspers.com
+peopleview.naspers.com
+nav.naspers.com
