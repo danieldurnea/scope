@@ -3426,7 +3426,6 @@ contacts.8x8.com
 converse.8x8.com
 8x8.vc
 webrtc.8x8.com
-org.vom8x8.sipua
 pay.8x8.com
 platform.8x8.com
 platform.8x8pilot.com
