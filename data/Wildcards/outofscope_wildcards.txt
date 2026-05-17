@@ -3,6 +3,10 @@
 *.arlo.com
 *.integrations.asana.plus
 *.bitbucket.io
+*.trustwallet.com
+*.trustwalletapp.com
+*.binance.org
+*.coinmarketcap.com
 *.bitgo.com
 *.exchange.bitpanda.com
 *.otc.bitso.com
@@ -37,8 +41,6 @@ hsd1.*.comcast.net
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
-*-sdb.kucoin.com
-*-sandbox.kucoin.com
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -128,6 +130,8 @@ auth.*.latitudefinancial.com
 *.mobile.uscc.com
 *.moengage.com
 *.engage.tesla.com
+*.myfourchette.com
+*.lafourchette.rest
 argocd.*.uidapi.com
 *.skilljarapp.com
 *.smartling.com

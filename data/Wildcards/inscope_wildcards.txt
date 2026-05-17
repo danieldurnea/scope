@@ -17,6 +17,8 @@ portalapi.*.afterpay.com
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
+*.binance.com
+*.binance.us
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
@@ -131,7 +133,6 @@ casino.*.betmgm.com
 *.designify.com
 *.kaleido.ai
 *.unscreen.com
-*.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
 *.carecredit.com.au
@@ -273,6 +274,7 @@ np.*.lfscnp.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
+*.tools.thefork.tech
 *.prod.uidapi.com
 *.thetradedesk.com
 *.adsrvr.org
