@@ -3,10 +3,6 @@
 *.arlo.com
 *.integrations.asana.plus
 *.bitbucket.io
-*.trustwallet.com
-*.trustwalletapp.com
-*.binance.org
-*.coinmarketcap.com
 *.bitgo.com
 *.exchange.bitpanda.com
 *.otc.bitso.com
@@ -132,8 +128,6 @@ auth.*.latitudefinancial.com
 *.mobile.uscc.com
 *.moengage.com
 *.engage.tesla.com
-*.myfourchette.com
-*.lafourchette.rest
 argocd.*.uidapi.com
 *.skilljarapp.com
 *.smartling.com
@@ -660,12 +654,6 @@ sharelock.io
 goextend.io
 support.auth0.com
 community.auth0.com
-jobs.coinmarketcap.com
-support.binance
-binance.sg
-blog.coinmarketcap.com
-support.coinmarketcap.com
-blockchain.coinmarketcap.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
 businessresources.bitdefender.com
@@ -1133,13 +1121,6 @@ shop.eu.teslamotors.com
 service.tesla.com
 service.tesla.cn
 maxwell.com
-myfourchette.com
-website.theforkmanager.com
-login.theforkmanager.com
-developer.thefork.io
-manager.thefork.com
-module.thefork.com
-lafourchette.com
 investors.thetradedesk.com
 ask.thetradedesk.com
 thetradedeskedgeacademy.com
