@@ -221,6 +221,7 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
+*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
@@ -283,7 +284,6 @@ np.*.lfscnp.com
 *.tidalhifi.com
 *tidalhi.fi
 *.tdl.sh
-*.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
 *.flipkey.com
@@ -1980,6 +1980,7 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 osl.com
 dashboard.pantheon.io
+pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org
@@ -2181,8 +2182,6 @@ thousandeyes.com
 tidal.com
 api.tidal.com
 offer.tidal.com
-api.trello.com
-butlerfortrello.com
 api.production.cde.tamg.cloud
 partnerapi.tapayments.com
 partnerapi1.tapayments.com

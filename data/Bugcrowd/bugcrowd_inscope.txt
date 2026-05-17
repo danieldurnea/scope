@@ -930,6 +930,8 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 osl.com
 dashboard.pantheon.io
+pexels.com
+*.pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com
@@ -1193,9 +1195,6 @@ api.tidal.com
 *tidalhi.fi
 *.tdl.sh
 offer.tidal.com
-api.trello.com
-*.trello.services
-butlerfortrello.com
 api.production.cde.tamg.cloud
 partnerapi.tapayments.com
 partnerapi1.tapayments.com
