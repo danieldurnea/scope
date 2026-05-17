@@ -909,6 +909,8 @@ thousandeyes.com
 tidal.com
 api.tidal.com
 offer.tidal.com
+api.trello.com
+butlerfortrello.com
 api.production.cde.tamg.cloud
 partnerapi.tapayments.com
 partnerapi1.tapayments.com

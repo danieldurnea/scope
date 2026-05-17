@@ -1,1 +1,1 @@
-*.pexels.com
+*.trello.services
