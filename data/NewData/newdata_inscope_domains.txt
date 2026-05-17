@@ -1,2 +1,2 @@
-api.trello.com
-butlerfortrello.com
+associatie.kuleuven.be
+webwsp.aps.kuleuven.be
