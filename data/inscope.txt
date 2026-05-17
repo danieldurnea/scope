@@ -221,7 +221,6 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
-*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
@@ -1981,7 +1980,6 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 osl.com
 dashboard.pantheon.io
-pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org
