@@ -221,6 +221,7 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
+*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
@@ -1980,6 +1981,7 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 osl.com
 dashboard.pantheon.io
+pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org
@@ -5117,6 +5119,11 @@ boomer2.ninjakiwi.com
 ct.ninjakiwi.com
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 passport.peoplecert.org
 atv.peoplecert.org

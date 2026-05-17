@@ -1,1 +1,1 @@
-*.kucoin.com
+*.pexels.com
