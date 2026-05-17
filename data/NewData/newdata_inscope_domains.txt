@@ -1,6 +1,4 @@
-pexels.com
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
+opensea.io
+wallet.opensea.io
+io.opensea
+mcp.opensea.io
