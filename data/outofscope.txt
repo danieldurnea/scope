@@ -244,6 +244,9 @@ db.*.supabase.co
 *.stripchat.com
 *.okg.com
 *.epic.superbet.ro
+*.magiceden.dev
+*.magiceden.io
+*.magiceden.workers.dev
 *.pramericalife.in
 *.prudential.co.kr
 *.prudentialagf.cl
@@ -1536,6 +1539,7 @@ help.dicey.com
 auth.magiceden.io
 ord-mirror.magiceden.dev
 img-cdn.magiceden.dev
+magiceden.io
 mainframe.magiceden.io
 staging.dicey.com
 afphabitat.cl

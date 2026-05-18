@@ -244,6 +244,9 @@ db.*.supabase.co
 *.stripchat.com
 *.okg.com
 *.epic.superbet.ro
+*.magiceden.dev
+*.magiceden.io
+*.magiceden.workers.dev
 *.pramericalife.in
 *.prudential.co.kr
 *.prudentialagf.cl
