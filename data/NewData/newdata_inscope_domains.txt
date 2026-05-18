@@ -8,3 +8,4 @@ mcp.intercom.com
 api-iam.intercom.io
 fin.ai
 app.fin.ai
+e-global.heytap.com
