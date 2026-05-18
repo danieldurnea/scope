@@ -1,1 +1,2 @@
-*.tools.thefork.tech
+*.binance.com
+*.binance.us
