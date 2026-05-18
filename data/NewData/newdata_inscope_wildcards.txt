@@ -1,2 +1,1 @@
-*.voi.com
-*.voiscooters.com
+*.tools.thefork.tech

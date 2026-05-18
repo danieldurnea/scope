@@ -275,6 +275,7 @@ np.*.lfscnp.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
+*.tools.thefork.tech
 *.prod.uidapi.com
 *.thetradedesk.com
 *.adsrvr.org
