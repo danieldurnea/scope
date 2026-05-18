@@ -857,16 +857,6 @@ tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
-secure.thefork.com
-payment.lafourchette.com
-api.thefork.io
-widget.thefork.com
-theforkmanager.com
-thefork.com
-m.thefork.com
-api.thefork.com
-blog.thefork.com
-restaurant-information.com
 open.sincera.io
 desk.thetradedesk.com
 api.thetradedesk.com
