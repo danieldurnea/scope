@@ -657,6 +657,14 @@ vtm.be
 vtmgo.be
 *.vtm.be
 *.vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 *.vinted.net
 *.vinted.com
 *.vinted.fr

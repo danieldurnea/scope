@@ -260,6 +260,7 @@ np.*.lfscnp.com
 *.services.repostnetwork.com
 *.square.com
 *.squareup.com
+*.statuspage.io
 *.api.t-mobile.com
 *.metrobyt-mobile.com
 *.t-mobile.com
@@ -2075,6 +2076,7 @@ soundcloud.org
 squareup.com
 square.online
 weebly.com
+manage.statuspage.io
 account.t-mobile.com
 metrobyt-mobile.com
 sprint.com
@@ -5352,6 +5354,14 @@ vrt.be
 myaccount.vtm.be
 vtm.be
 vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com
