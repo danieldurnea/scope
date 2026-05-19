@@ -97,9 +97,6 @@ casino.*.betmgm.com
 *.zoop.ws
 *.minhaconta.zoop.com.br
 *.dash.zoop.com.br
-*.imperva.com
-*.cloudvector.com
-*.incapsula.com
 *.indeed.com
 *.indeedflex.com
 *.indeed.tech
@@ -1168,8 +1165,6 @@ ic3.*.indriverapp.com
 *careers.vinted.com
 *news.vinted.com
 *company.vinted.com
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
@@ -1573,8 +1568,6 @@ minhaconta.zoop.com.br
 dash.zoop.com.br
 contadigital.ifoodpago.com.br
 portal.ifoodpago.com.br
-cloudvector.com
-supportportal.thalesgroup.com
 indeed.com
 apis.indeed.com
 resume.com
@@ -5187,6 +5180,11 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
@@ -5386,12 +5384,6 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
-api.voiapp.io
-fm.voiapp.io
-mds.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com

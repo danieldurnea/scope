@@ -242,8 +242,6 @@ blog-parceiros.ifood.com.br
 *.starsoft.movilepay.com
 *.openfinance.ifood.com.br
 *.openfinance.ifoodpago.com.br
-docs.imperva.com
-docs-be.imperva.com
 *.joralocal.com.au
 *.business.just-eat.co.uk
 k15t.com

@@ -565,6 +565,10 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com
@@ -821,8 +825,6 @@ investors.ibotta.com
 sampling.ibotta.com
 blog-empresas.ifood.com.br
 blog-parceiros.ifood.com.br
-docs.imperva.com
-docs-be.imperva.com
 k15t.com
 k15t.de
 help.k15t.com

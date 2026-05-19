@@ -383,11 +383,6 @@ dash.zoop.com.br
 *.dash.zoop.com.br
 contadigital.ifoodpago.com.br
 portal.ifoodpago.com.br
-*.imperva.com
-cloudvector.com
-*.cloudvector.com
-*.incapsula.com
-supportportal.thalesgroup.com
 indeed.com
 *.indeed.com
 *.indeedflex.com
