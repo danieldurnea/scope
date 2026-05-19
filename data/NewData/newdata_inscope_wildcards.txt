@@ -1,1 +1,3 @@
-*.wise-sandbox.com
+*.imperva.com
+*.cloudvector.com
+*.incapsula.com

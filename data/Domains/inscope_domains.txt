@@ -284,6 +284,8 @@ minhaconta.zoop.com.br
 dash.zoop.com.br
 contadigital.ifoodpago.com.br
 portal.ifoodpago.com.br
+cloudvector.com
+supportportal.thalesgroup.com
 indeed.com
 apis.indeed.com
 resume.com
