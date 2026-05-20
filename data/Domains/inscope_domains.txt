@@ -3605,9 +3605,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 challenge-0526.intigriti.io
 api.cloudways.com
 developers.cloudways.com
@@ -4601,7 +4598,5 @@ svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
-toom.de
-api.toom.de
 co.uk.com
 parcelhubeurope.com
