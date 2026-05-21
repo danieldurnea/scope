@@ -1,5 +1,4 @@
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
-*.voi.com
-*.voiscooters.com
+*.datacamp.com
