@@ -777,7 +777,6 @@ nubank.com.co
 nuinvest.com.br
 *.nuinvest.com.br
 octopus.com
-*.octopus.com
 oktapreview.com
 pam.oktapreview.com
 workflows.oktapreview.com

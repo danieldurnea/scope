@@ -57,7 +57,6 @@ auth.*.latitudefinancial.com
 *.lululemon.me
 *.nuinternational.com
 *.nat-a.nubank.com.br
-*.octopus.app
 *.okta.com
 *.trexcloud.com
 *.onetrust.com
@@ -976,16 +975,6 @@ u.nm.com
 wholelifeconversion.com
 21fiveca.com
 international.nubank.com.br
-partners.octopus.com
-artifactorysample.octopus.com
-bamboosample.octopus.com
-jenkinssample.octopus.com
-teamcitysample.octopus.com
-nexussample.octopus.com
-myget.octopus.com
-trust.octopus.com
-i.octopus.com
-ir.octopus.com
 personal.trexcloud.com
 1.oktapreview.com
 2.oktapreview.com
