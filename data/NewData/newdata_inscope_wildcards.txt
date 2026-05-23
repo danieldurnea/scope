@@ -1,2 +1,3 @@
-*.jora.com
-*.jora.xyz
+*.intercomassets.com
+*.intercomcdn.com
+*.mobile-messenger.intercom.com
