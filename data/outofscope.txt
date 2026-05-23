@@ -36,6 +36,7 @@ hsd1.*.comcast.net
 *.starsoft.movilepay.com
 *.openfinance.ifood.com.br
 *.openfinance.ifoodpago.com.br
+*.joralocal.com.au
 *.business.just-eat.co.uk
 *kohls.com
 *kohlsecommerce.com

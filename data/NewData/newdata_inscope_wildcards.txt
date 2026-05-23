@@ -1,1 +1,2 @@
-*.octopus.com
+*.jora.com
+*.jora.xyz
