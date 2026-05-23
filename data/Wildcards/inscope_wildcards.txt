@@ -107,8 +107,6 @@ casino.*.betmgm.com
 *.intercomassets.com
 *.intercomcdn.com
 *.mobile-messenger.intercom.com
-*.jora.com
-*.jora.xyz
 *.thuisbezorgd.nl
 *.takeaway.com
 *.skipthedishes.com
