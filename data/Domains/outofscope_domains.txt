@@ -338,6 +338,16 @@ u.nm.com
 wholelifeconversion.com
 21fiveca.com
 international.nubank.com.br
+partners.octopus.com
+artifactorysample.octopus.com
+bamboosample.octopus.com
+jenkinssample.octopus.com
+teamcitysample.octopus.com
+nexussample.octopus.com
+myget.octopus.com
+trust.octopus.com
+i.octopus.com
+ir.octopus.com
 personal.trexcloud.com
 1.oktapreview.com
 2.oktapreview.com
@@ -2704,9 +2714,6 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 pro.nexuzhealth.hn
