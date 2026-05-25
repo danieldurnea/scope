@@ -1,3 +1,7 @@
-payment.backend-capital.com
-capital.com
-open-api.capital.com
+authentication.wolt.com
+corporate.wolt.com
+drive.wolt.com
+merchant.wolt.com
+ops.wolt.com
+restaurant-api.wolt.com
+wolt.com
