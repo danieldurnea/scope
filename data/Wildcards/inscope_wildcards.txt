@@ -551,10 +551,6 @@ ic3.*.indriverapp.com
 *.exodus.com
 *.exodus.io
 *.k8s.io
-*.gocardless-cicd.io
-*.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.airstar-finance.com
