@@ -586,6 +586,7 @@ g.*.slackhq.com
 *.doserverless-dev3.io
 *.yadifa.eu
 *.swop.com
+*.configuratoren.nl
 *.lxc.liferay.com
 *.nexuzhealth.pro
 *.vectus.in
@@ -3280,6 +3281,7 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
 demorgen.be
@@ -3330,6 +3332,18 @@ newsroom.innogames.com
 pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
+afspraakmaken.gamma.nl
+api.afspraakmaken.gamma.be
+api.afspraakmaken.gamma.nl
+api.maakafspraak.karwei.nl
+horrenconfigurator-fr.gamma.be
+horrenconfigurator-nl.gamma.be
+horrenconfigurator.karwei.nl
+karwei-2018.hetmooistegordijn.nl
+maakafspraak.karwei.nl
+mail.gamma.be
+mail.gamma.nl
+mail.karwei.nl
 trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
