@@ -2964,6 +2964,7 @@ jp.harmanaudio.com
 jp.jbl.com
 devicedb.roonlabs.net
 paymaya.com
+api.moneyboxapp.com
 otto.de
 keycloak.apps.otto.de
 help-okto.sprinklr.com
