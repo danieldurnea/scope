@@ -591,6 +591,7 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.configuratoren.nl
+*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro

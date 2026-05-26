@@ -2122,7 +2122,6 @@ premium.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
 pixiv.net
-docs.cometbft.com
 cosmwasm.com
 docs.cosmos.network
 cosmos.network
