@@ -610,6 +610,8 @@ develop-app.ynab.com
 learn.ynab.com
 support.zendesk.com
 zendesk.com
+gogocloud.net
+gogocommercialaviation.com
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
 blawx.cdssandbox.xyz
@@ -2651,18 +2653,6 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 anchor.digitalocean.com
@@ -2809,6 +2799,8 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
+api.prod.svc.vintedpay.com
+callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
