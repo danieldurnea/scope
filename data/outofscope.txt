@@ -1257,6 +1257,7 @@ develop-app.ynab.com
 learn.ynab.com
 support.zendesk.com
 zendesk.com
+gogo750.com
 gogocloud.net
 gogocommercialaviation.com
 ai-answers.alpha.canada.ca
