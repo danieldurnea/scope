@@ -465,6 +465,8 @@ firmagaver.boozt.com
 kronor.io
 api.frontegg.com
 portal.frontegg.com
+smallbusiness.comerica.com
+smallbusinessuat.comerica.com
 bus.*.indrive.com
 servicos.indrive.com
 sinet.startup.indriver
