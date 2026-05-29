@@ -2868,7 +2868,6 @@ falcon-sandbox.com
 hybrid-analysis.com
 onum-labs.com
 onum.com
-pangea.cloud
 play.google.com
 seraphicsecurity.com
 crowdstrike.com
