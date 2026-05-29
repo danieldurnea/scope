@@ -2635,6 +2635,10 @@ public.bitmex.com
 research.bitmex.com
 status.bitmex.com
 support.bitmex.com
+blog.thecoalition.com
+security.md
+help.thecoalition.com
+thecoalition.com
 community.elastic.co
 discuss.elastic.co
 learn.elastic.co

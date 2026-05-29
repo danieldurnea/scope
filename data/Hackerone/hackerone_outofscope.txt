@@ -1655,6 +1655,10 @@ support.bitmex.com
 *.azuredatabricks.net
 *.cloud.databricks.com
 *.gcp.databricks.com
+blog.thecoalition.com
+security.md
+help.thecoalition.com
+thecoalition.com
 *.es.io
 *.jina.ai
 *.kbndev.co
