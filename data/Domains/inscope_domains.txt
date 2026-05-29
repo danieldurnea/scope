@@ -2061,6 +2061,8 @@ apollo.io
 docs.stripe.com
 checkout.stripe.com
 dashboard.stripe.com
+projects.dev
+crypto.link.com
 api.stripe.com
 api.taxjar.com
 app.taxjar.com
@@ -3716,6 +3718,16 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
+gamma.nl
+gamma.be
+karwei.nl
+kassa.gamma.nl
+kassa.gamma.be
+kassa.karwei.nl
+mijn.gamma.nl
+mijn.gamma.be
+mijn.karwei.nl
+irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -3862,8 +3874,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3963,6 +3973,7 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
