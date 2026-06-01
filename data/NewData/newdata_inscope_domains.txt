@@ -1,4 +1,7 @@
-developersites.com.au
-scripts.developersites.com.au
-ftp.developersites.com.au
-agent-contact.realestate.com.au
+co.uk.getmondo
+monzo.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com

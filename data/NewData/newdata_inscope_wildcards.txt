@@ -1,4 +1,2 @@
-*.mortgagechoice.com.au
-*.demo.bp.mortgagechoice.com.au
-*.smartline.com.au
-*.mclead.com.au
+*.monzo.com
+*.prod-ffs.io
