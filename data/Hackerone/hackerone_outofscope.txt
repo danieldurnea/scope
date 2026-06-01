@@ -1,3 +1,4 @@
+gogo705.com
 gogo750.com
 gpden.gogoair.com
 gpmlb.gogoair.com
@@ -1138,8 +1139,6 @@ learning.logistics.amazon.com
 cs.money
 grafana.cs.money
 old.cs.money
-or.id
-web.id
 fulfillment-platform.shutterfly.com
 *.cvs.com
 *.walgreens.com

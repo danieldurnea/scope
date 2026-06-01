@@ -653,6 +653,7 @@ develop-app.ynab.com
 learn.ynab.com
 support.zendesk.com
 zendesk.com
+gogo705.com
 gogo750.com
 gpden.gogoair.com
 gpmlb.gogoair.com
@@ -1602,8 +1603,6 @@ learning.logistics.amazon.com
 cs.money
 grafana.cs.money
 old.cs.money
-or.id
-web.id
 fulfillment-platform.shutterfly.com
 clientaccess.citrixcloud.navient.com
 filegateway.navient.com
@@ -2699,6 +2698,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
