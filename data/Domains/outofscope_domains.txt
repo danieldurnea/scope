@@ -2779,6 +2779,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 pro.nexuzhealth.hn
@@ -3010,6 +3013,12 @@ secondchance.jbl.com
 jp.harmanaudio.com
 jp.jbl.com
 devicedb.roonlabs.net
+api.pub1.infomaniak.cloud
+ov-xx.infomaniak.ch
+od-xx.infomaniak.ch
+drive.infomaniak.com
+s3.pub
+acronis.infomaniak.com
 paymaya.com
 api.moneyboxapp.com
 otto.de

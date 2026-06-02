@@ -711,6 +711,7 @@ ic3.*.indriverapp.com
 *.paddypower.com
 *.paddypower.it
 *.platformservices.io
+*.ppb.com
 *.ppbdev.com
 *.sbgcdn.com
 *.sbgcore.com
@@ -998,6 +999,9 @@ ic3.*.indriverapp.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
 *.ad.nl
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de
@@ -1105,6 +1109,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
@@ -1251,6 +1257,10 @@ ic3.*.indriverapp.com
 *.gotdrops.com
 *.gotdrops.cloud
 *.easy4ipcloud.com
+*.kdrive.infomaniak.com
+*.kchat.infomaniak.com
+*.infomaniak.com
+*.vod2.infomaniak.com
 *.api.louisvuitton.com
 *.soyoustart.com
 *.privateinternetaccess.com
