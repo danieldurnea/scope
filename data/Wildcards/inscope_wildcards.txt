@@ -74,6 +74,7 @@ casino.*.betmgm.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
+*.etoro.com
 *.etsy.com
 *.financialforce.com
 *.certinia.com
@@ -1098,10 +1099,6 @@ ic3.*.indriverapp.com
 *.marionnaud.cz
 *.marionnaud.ro
 *.marionnaud.sk
-*.mas.mobilevikings.be
-*.mobilevikings.be
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
