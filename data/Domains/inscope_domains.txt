@@ -1970,15 +1970,7 @@ api.whatnot.com
 auction-service.whatnot.com
 live-service.whatnot.com
 whatnot.com
-accounts.khealth.com
-api.khealth.com
-ask.khealth.com
-eligibility.khealth.com
-auth.khealth.com
-clinical-quality.khealth.com
-kaccount.khealth.com
 org.hartfordhealthcare.hhc
-treatments.khealth.com
 api.smtp2go.com
 apidoc.smtp2go.com
 app.smtp2go.com

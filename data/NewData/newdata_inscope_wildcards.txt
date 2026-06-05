@@ -1,1 +1,8 @@
-*.hhc247.org
+*.csconnect.org
+*.hmh247.org
+*.khealth-test.com
+*.mgbcareconnect.org
+*.northwellprimarycarenow.com
+*.novanthealthvirtualprimarycare.org
+*.pennmedicine.connect-visit.com
+*.primarycareondemand.mayoclinic.org
