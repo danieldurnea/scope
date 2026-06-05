@@ -5,6 +5,9 @@ myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
 *.ad.nl
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 politico.eu
 adtechnology.axelspringer.com
 *.asadcdn.com
@@ -60,6 +63,12 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+*.backend-capital.com
+capital.com
+open-api.capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -342,10 +351,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
