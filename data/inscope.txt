@@ -472,6 +472,7 @@ ic3.*.indriverapp.com
 *.newegg.com
 *.krisp.ai
 *.whatnot.com
+*.hhc247.org
 *.khealth.com
 *.khealth.io
 *.bingoblitz.com
@@ -3259,7 +3260,6 @@ whatnot.com
 accounts.khealth.com
 api.khealth.com
 ask.khealth.com
-auth.hhc247.org
 eligibility.khealth.com
 auth.khealth.com
 clinical-quality.khealth.com

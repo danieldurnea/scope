@@ -816,7 +816,6 @@ ai.kanghealth
 app.khealth.com
 kaccount.khealth.com
 careers.khealth.com
-hhc247.org
 khealth.com
 salesforce.khealth.com
 start.khealth.com

@@ -472,6 +472,7 @@ ic3.*.indriverapp.com
 *.newegg.com
 *.krisp.ai
 *.whatnot.com
+*.hhc247.org
 *.khealth.com
 *.khealth.io
 *.bingoblitz.com

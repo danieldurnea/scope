@@ -1080,10 +1080,10 @@ api.whatnot.com
 auction-service.whatnot.com
 live-service.whatnot.com
 whatnot.com
+*.hhc247.org
 accounts.khealth.com
 api.khealth.com
 ask.khealth.com
-auth.hhc247.org
 eligibility.khealth.com
 auth.khealth.com
 clinical-quality.khealth.com
