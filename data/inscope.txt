@@ -1008,9 +1008,6 @@ ic3.*.indriverapp.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
 *.ad.nl
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de
@@ -5033,11 +5030,6 @@ media.marionnaud.sk
 app.marionnaud.sk
 api.marionnaud.sk
 nvidia.com
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
-mynexuz.be
-liquidfiles.nexuzhealth.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 analytics.ninjakiwi.com

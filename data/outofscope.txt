@@ -572,10 +572,6 @@ online.*.skybingo.com
 g.*.slackhq.com
 *.rubyonrails.org
 *.aikido.dev
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -597,7 +593,6 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
-*.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
 *.pdq.tools
@@ -3451,10 +3446,6 @@ libelle.nl
 login.liferay.com
 docs.moralis.io
 status.moralis.io
-pro.nexuzhealth.hn
-nexuzhealth.atlassian.net
-media.nexuzhealth.be
-idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de
