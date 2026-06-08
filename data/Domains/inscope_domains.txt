@@ -3775,6 +3775,8 @@ marionnaud.sk
 media.marionnaud.sk
 app.marionnaud.sk
 api.marionnaud.sk
+co.uk.getmondo
+monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws

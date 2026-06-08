@@ -597,9 +597,11 @@ g.*.slackhq.com
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
+*.ondbaasdev.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
+*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -1581,6 +1583,7 @@ app.klarna.com
 jobs.pricerunner.com
 locker.klarna.com
 nuji.com
+uconf.uat.unico.app
 docs.wallet.tg
 toncenter.walletbot.me
 wallet.helpscoutdocs.com
@@ -3470,6 +3473,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 pro.nexuzhealth.hn
