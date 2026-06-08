@@ -1,3 +1,2 @@
-payment.backend-capital.com
-capital.com
-open-api.capital.com
+access.ripe.net
+lirportal.ripe.net

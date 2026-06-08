@@ -616,6 +616,9 @@ g.*.slackhq.com
 *.unique.be
 *.uniqueselect.be
 *.usgprofessionals.be
+*.anchors.atlas.ripe.net
+*.probes.atlas.ripe.net
+*.ripe.net
 *.newyorkredbulls.com
 *.tempo-team.de
 *.ccnag.com
@@ -3451,6 +3454,8 @@ support.personio.de
 personio.com
 personio.es
 pen-app.entrili.com
+exams.ripe.net
+ripe.net
 apps.randstad.in
 cz.randstad.com
 workplace.randstad.in
