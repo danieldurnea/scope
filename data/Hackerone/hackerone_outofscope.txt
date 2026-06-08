@@ -412,6 +412,8 @@ thebodyshop.cz
 *.truist.com
 truist.com
 *.sixidmobile.com
+providerhub.six-group.com
+six-structured-products.com
 saferpay.com
 gnltn.com
 ldry.com
