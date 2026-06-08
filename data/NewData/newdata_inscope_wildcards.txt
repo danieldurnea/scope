@@ -1,1 +1,3 @@
-*.soundon.global
+*.backend-capital.com
+*.capital.com
+*.itcapital.io

@@ -2714,12 +2714,17 @@ support.hackerone.com
 hackeronestatus.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
+puml.devops.buhlergroup.com
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
