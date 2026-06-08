@@ -472,6 +472,7 @@ staging.dicey.com
 *.prudentialagf.cl
 *.prudentialplc.com
 afphabitat.cl
+brand.prudential.com
 pramericalife.in
 prudentialagf.cl
 analytics.boozt.com
@@ -2300,6 +2301,7 @@ priceline.com
 *.ubertransit.io
 *scaledsolutions.uber.com
 bizblog.uber.com
+central-beta.uber.com
 drive.uber.com
 eng.uber.com
 et.uber.com
