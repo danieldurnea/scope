@@ -1,2 +1,8 @@
-co.uk.getmondo
-monzo.com
+id.portswigger.net
+login.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com
+appmiral.com
+building-blocks.com
+cmcom.atlassian.net
