@@ -4607,6 +4607,7 @@ fareharbor.com
 staging.airtable.com
 api-staging.airtable.com
 airtable.com
+mcp.staging.airtable.com
 account.adobe.com
 account.magento.com
 adobeid-na1.services.adobe.com
