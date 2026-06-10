@@ -1265,6 +1265,7 @@ ic3.*.indriverapp.com
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
+*.cyber.gouv.qc.ca
 *.post.ch
 *.telenor.se
 *.bredbandsbolaget.se
