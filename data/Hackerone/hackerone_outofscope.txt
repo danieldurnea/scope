@@ -2096,6 +2096,9 @@ help.wealthsimple.com
 support.wealthsimple.com
 tldr-archive.wealthsimple.com
 work.wealthsimple.com
+*.home.bargains
+*.homebargains.co.uk
+*.tjmorris.co.uk
 *.ali.zomans.com
 *.bstro.io
 *.zomatoportugal.com
