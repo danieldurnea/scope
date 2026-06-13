@@ -217,7 +217,6 @@ cmsnationaltrainingprogram.cms.gov
 csscoperations.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
-coindesk.com
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
@@ -285,6 +284,14 @@ sb-mobile-api.fireblocks.io
 sandbox-api.fireblocks.io
 fivetran.com
 *.fivetran.com
+flo.uri.sh
+flourish.studio
+*.flourish.studio
+xyzbmojn.net
+*.xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com
+*.kiln.it
 staging.gearset.com
 *.staging.gearset.com
 staging-api.gearset.com
