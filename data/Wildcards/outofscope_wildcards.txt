@@ -633,6 +633,7 @@ g.*.slackhq.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
+*.uphodl.com
 *.homerr.com
 *vintedpay.com
 *.vinted.ca
