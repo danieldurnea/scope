@@ -863,7 +863,6 @@ zebra.cn
 *.firstdata.com
 *.fiserv.com
 blog.playtronics.com
-api.clover.com
 api.eu.clover.com
 lws.fdcbusinessservices.com
 partner.clover.com

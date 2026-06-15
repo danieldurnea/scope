@@ -2030,7 +2030,6 @@ multispectral.com
 wherenet.com
 zebra.cn
 blog.playtronics.com
-api.clover.com
 api.eu.clover.com
 lws.fdcbusinessservices.com
 partner.clover.com
