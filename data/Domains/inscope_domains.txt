@@ -4071,8 +4071,6 @@ m.blablacar
 api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com
-sncf-connect.com
-monidentifiant.sncf
 api.coindcx.com
 mobile-production.content-square.net
 m.csqtrk.net
