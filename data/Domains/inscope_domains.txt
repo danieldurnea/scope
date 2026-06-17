@@ -79,7 +79,6 @@ bitdefender.com
 app.bitgo.com
 app.bitgo-test.com
 bitgo.ae
-wbtc.network
 usdstandard.com
 web.bitpanda.com
 bitpanda.com
@@ -3789,14 +3788,6 @@ marionnaud.sk
 media.marionnaud.sk
 app.marionnaud.sk
 api.marionnaud.sk
-mobilevikings.be
-api.unleashed.be
-jimmobile.be
-uwa.mobilevikings.be
-vpn.mobilevikings.be
-mgm.mobilevikings.be
-vikingco.be
-vikingdeals.be
 co.uk.getmondo
 monzo.com
 nvidia.com
