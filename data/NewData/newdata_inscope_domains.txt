@@ -1,1 +1,2 @@
-agoda.com
+platform.nexo.com
+nexo.com
