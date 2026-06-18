@@ -256,6 +256,7 @@ argocd.*.uidapi.com
 *.msci.com.ar
 *.hotmart.com
 *.teachable.com
+*.buildstaging.com
 *.hubspot.com
 *.agilebits.com
 *.zipbooks.com
@@ -3466,6 +3467,8 @@ trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 login.liferay.com
 community.monzo.com
