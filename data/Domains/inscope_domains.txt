@@ -216,6 +216,15 @@ app.glean.com
 bug-bounty-be.glean.com
 hostgator.com.br
 financeiro.hostgator.com.br
+cultbeauty.co.uk
+lookfantastic.com
+myprotein.com
+myvitamins.com
+arrowfilms.com
+mankind.co.uk
+illamasqua.com
+matalan.co.uk
+enjoyselfish.com
 chrome.google.com
 market.android.com
 content-server.ibotta.com
@@ -3776,8 +3785,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 nvidia.com
 platform.nexo.com
 nexo.com
