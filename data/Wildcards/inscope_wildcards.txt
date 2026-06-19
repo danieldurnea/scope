@@ -84,14 +84,6 @@ casino.*.betmgm.com
 *.kiln.it
 *.staging.gearset.com
 *.central.arubanetworks.com
-*.cultbeauty.co.uk
-*.lookfantastic.com
-*.myprotein.com
-*.myvitamins.com
-*.arrowfilms.com
-*.mankind.co.uk
-*.illamasqua.com
-*.enjoyselfish.com
 *.movilepay.com
 *.movilepay.com.br
 *.zoop.com.br

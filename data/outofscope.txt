@@ -869,7 +869,6 @@ api.clayton.io
 carrinho.hostgator.com.br
 academy.hostgator.com
 hostgator.com.br
-myprotein.com.tr
 backend.ibotta.com
 ir.ibotta.com
 trust.ibotta.com
