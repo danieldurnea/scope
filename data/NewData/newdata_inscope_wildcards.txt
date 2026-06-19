@@ -1,7 +1,1 @@
-*.mas.mobilevikings.be
-*.mobilevikings.be
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.veriff.com
