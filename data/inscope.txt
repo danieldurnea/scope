@@ -3278,8 +3278,6 @@ net.supertreat.solitaire
 net.wooga.junes
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats
-m.trendyol.com
-enm.trendyol.com
 trendyol.com
 dolap.com
 tgoyemek.com
@@ -5759,6 +5757,7 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 evisa.gov.mz
 uketa.vfsglobal.com
+vfsglobalcustomerexperience.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com
