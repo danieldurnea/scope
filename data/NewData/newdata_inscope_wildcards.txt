@@ -1,8 +1,3 @@
-*.cultbeauty.co.uk
-*.lookfantastic.com
-*.myprotein.com
-*.myvitamins.com
-*.arrowfilms.com
-*.mankind.co.uk
-*.illamasqua.com
-*.enjoyselfish.com
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
