@@ -3125,8 +3125,6 @@ profiles.wordpress.org
 trac.wordpress.org
 edgewall.com
 meta.git.wordpress.org
-wordpress.net
-jobs.wordpress.net
 login.wordpress.org
 developer.wordpress.org
 make.wordpress.org
