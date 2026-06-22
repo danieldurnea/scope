@@ -609,6 +609,10 @@ g.*.slackhq.com
 *.swop.com
 *.lxc.liferay.com
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
