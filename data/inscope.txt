@@ -1113,6 +1113,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
@@ -5057,6 +5059,8 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
+monzo.com
 nvidia.com
 platform.nexo.com
 nexo.com
@@ -5112,13 +5116,6 @@ transsicura.ch
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-soundtrack.io
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com
