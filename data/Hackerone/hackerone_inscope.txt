@@ -1853,10 +1853,6 @@ rewire.com
 site.rewire.com
 travelcash.money
 whyisend.com
-api.s-kaupat.fi
-s-kaupat.fi
-api.sokos.fi
-sokos.fi
 digili.s-cloud.fi
 s-pankki.fi
 s-kanava.fi
@@ -1866,10 +1862,6 @@ fi.spankki
 crosskey.io
 mobile.s-pankki.fi
 online.s-pankki.fi
-tunnistus.s-ryhma.fi
-firstname.lastname
-email.com
-prisma.fi
 *.flickr.com
 flickr.com
 modefestival.com
