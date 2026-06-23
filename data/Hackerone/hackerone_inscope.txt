@@ -918,6 +918,11 @@ verify.arkoselabs.com
 arkoselabs.com
 sandbox-royal.securegateway.com
 sandbox.securegateway.com
+*.boredapeyachtclub.com
+*.otherside.xyz
+odk.otherside.xyz
+*.yuga.com
+*.yugalabs.io
 app.moderntreasury.com
 cdn.moderntreasury.com
 notion.so
