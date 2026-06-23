@@ -26,6 +26,11 @@ portalapi.*.afterpay.com
 *.bolt.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn
 *.cash.app
 *.cashstaging.app
 *.chimepayments.com
@@ -1147,6 +1152,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net

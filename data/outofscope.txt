@@ -2084,7 +2084,6 @@ ingestion-tfa-dv3.tmp-nonprd.tenna.com
 ingestion-tfa-prd.tmp-prd.tenna.com
 ingestion-tfa-qa1.tmp-nonprd.tenna.com
 ingestion-tfa-stg.tmp-prd.tenna.com
-jd-icrm-integrations.azurewebsites.net
 johndeereclassic.com
 learn.tenna.com
 login.tenna.com
@@ -3490,6 +3489,18 @@ viavika.no
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
+trust.truelayer.com
+banks.truelayer.com
+careers.truelayer.com
+docs.truelayer.com
+docs.houston.truelayer.com
+truelayer.com
+index.truelayer.com
+info.truelayer.com
+signin.truelayer.com
+support.truelayer.com
+status.truelayer.com
+truelayer.zendesk.com
 elect.tweakers.net
 boekentoy.uzleuven.be
 uz-laboboeken.web.app

@@ -1,4 +1,8 @@
-*.boredapeyachtclub.com
-*.otherside.xyz
-*.yuga.com
-*.yugalabs.io
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
