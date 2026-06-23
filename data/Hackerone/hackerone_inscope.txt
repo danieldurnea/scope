@@ -1285,7 +1285,6 @@ shop-id.tokopedia.com
 shop.tiktok.com
 starling-ttp.lemon8-app.us
 tiktok.com
-tiktokdata-us-open.tiktokw.us
 pangleglobal.com
 soundon.global
 soundonw.us
@@ -1489,7 +1488,6 @@ internal-api-drive-stream.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api.larksuite.com
 lark-frontier.byteoversea.com
-larksuite.us
 open.larksuite.com
 passport.larksuite.com
 status.larksuite.com
