@@ -596,6 +596,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
 *.digitaloceanspaces.com
@@ -792,6 +793,7 @@ assetinventory.bugcrowd.com
 community.bugcrowd.com
 trust.bugcrowd.com
 simnext.bullish-test.com
+cwingsfe.mafrservices.com
 subs.foreignaffairs.com
 subscribe.foreignaffairs.com
 world101.cfr.org
@@ -3363,6 +3365,18 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 anchor.digitalocean.com

@@ -140,6 +140,8 @@ api.canva.com
 *.canva.cn
 *.canva-apps.cn
 itunes.apple.com
+carrefouruae.com
+api-prod.retailsso.com
 cash.app
 *.cash.app
 *.cashstaging.app
