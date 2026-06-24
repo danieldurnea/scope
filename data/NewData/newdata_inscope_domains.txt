@@ -1,1 +1,4 @@
-leakyjar.intigriti.io
+indeed.com
+apis.indeed.com
+resume.com
+wowjobs.ca

@@ -1,8 +1,4 @@
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.indeed.com
+*.indeedflex.com
+*.indeed.tech
+*.indeed.net
