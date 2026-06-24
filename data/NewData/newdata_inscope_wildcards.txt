@@ -1,4 +1,5 @@
-*.indeed.com
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
+*.voi.com
+*.voiscooters.com
