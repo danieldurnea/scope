@@ -969,6 +969,13 @@ portal.riskrecon.eu
 mcp.recordedfuture.com
 refined.site
 refinedsites.refinedwiki.com
+app.requirementyogi.com
+api.requirementyogi.com
+auth.requirementyogi.com
+confluence.requirementyogi.com
+jira.requirementyogi.com
+ww1.requirementyogi.cloud
+ww2.requirementyogi.cloud
 *.seek.com
 *.employer.seek.com
 *.seekpass.co
