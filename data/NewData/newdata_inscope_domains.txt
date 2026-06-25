@@ -1,3 +1,2 @@
-casino.partycasino.com
-casino.bwin.com
-casino.sportingbet.com
+canva.com
+api.canva.com
