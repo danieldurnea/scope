@@ -26,11 +26,6 @@ portalapi.*.afterpay.com
 *.bolt.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
 *.cash.app
 *.cashstaging.app
 *.chimepayments.com
@@ -62,6 +57,7 @@ portalapi.*.afterpay.com
 *.sys.comcast.net
 *.dell.com
 *.delltechnologies.com
+casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
 *.lab.epam.com
