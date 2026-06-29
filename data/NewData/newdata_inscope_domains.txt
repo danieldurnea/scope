@@ -1,1 +1,7 @@
-cz.skodaauto.myskoda
+passport.immutable.com
+auth.immutable.com
+hub.immutable.com
+play.immutable.com
+api.immutable.com
+api.x.immutable.com
+m.dana.id

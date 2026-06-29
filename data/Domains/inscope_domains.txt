@@ -249,6 +249,12 @@ minhaconta.zoop.com.br
 dash.zoop.com.br
 contadigital.ifoodpago.com.br
 portal.ifoodpago.com.br
+passport.immutable.com
+auth.immutable.com
+hub.immutable.com
+play.immutable.com
+api.immutable.com
+api.x.immutable.com
 cloudvector.com
 supportportal.thalesgroup.com
 indeed.com
@@ -4066,6 +4072,7 @@ cyberghost.app
 api.cyberghostvpn.com
 cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
+m.dana.id
 shoppingapp.decathlon.com
 bounty-nodejs.datashield.co
 bounty-fastly.datashield.co

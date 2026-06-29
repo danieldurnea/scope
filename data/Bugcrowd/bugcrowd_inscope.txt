@@ -349,6 +349,12 @@ dash.zoop.com.br
 *.dash.zoop.com.br
 contadigital.ifoodpago.com.br
 portal.ifoodpago.com.br
+passport.immutable.com
+auth.immutable.com
+hub.immutable.com
+play.immutable.com
+api.immutable.com
+api.x.immutable.com
 *.imperva.com
 cloudvector.com
 *.cloudvector.com
