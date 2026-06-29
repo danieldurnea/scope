@@ -275,6 +275,16 @@ folder.trekpleister.nl
 *.trekpleister.nl
 prijsmepper.nl
 *.prijsmepper.nl
+app.lansweeper.com
+fb.lansweeper.com
+edge.lansweeper.com
+api.lansweeper.com
+backoffice.lansweeper.com
+lsagentrelay.lansweeper.com
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+lansweeper.com
 leakyjar.intigriti.io
 libelle.nl
 *.libelle.nl
@@ -348,6 +358,10 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+*.monzo.com
+*.prod-ffs.io
+co.uk.getmondo
+monzo.com
 nvidia.com
 platform.nexo.com
 nexo.com
@@ -394,6 +408,10 @@ personio.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
+access.ripe.net
+github.com
+lirportal.ripe.net
+*.ripe.net
 business.rivian.com
 rivian.com
 *.rivian.com
@@ -533,7 +551,6 @@ status.uphold.com
 uphold.com
 topperpay.com
 optimuscards.com
-github.com
 player.vrt.be
 profiel.vrt.be
 sporza.be
