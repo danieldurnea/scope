@@ -351,7 +351,6 @@ sip.*.twilio.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
-*.cadastro.uat.unico.app
 *.uat.unico.app
 *.nflxext.com
 *.nflximg.net
@@ -2738,11 +2737,11 @@ klarnacdn.net
 portal.openbanking.playground.klarna.com
 pricerunner.com
 xs2a.banking.playground.klarna.com
-devcenter.unico.io
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
 blog.unico.io
+devcenter.unico.io
 idcash-uat.unico.io
 identityhomolog.acesso.io
 idpay-uat.unico.io
