@@ -2248,6 +2248,7 @@ pay.unity.com
 player-login.unity.com
 unity3d.com
 services.unity.com
+unity.com
 upwork.com
 api.upwork.com
 api.usaa.com
@@ -4989,16 +4990,6 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 prijsmepper.nl
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
 leakyjar.intigriti.io
 libelle.nl
 marionnaud.fr

@@ -168,6 +168,7 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
+github.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
@@ -275,16 +276,6 @@ folder.trekpleister.nl
 *.trekpleister.nl
 prijsmepper.nl
 *.prijsmepper.nl
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
 leakyjar.intigriti.io
 libelle.nl
 *.libelle.nl
@@ -409,7 +400,6 @@ app.qualified-dev.com
 qualified.com
 api.qualified.com
 access.ripe.net
-github.com
 lirportal.ripe.net
 *.ripe.net
 business.rivian.com
