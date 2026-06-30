@@ -3559,6 +3559,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -4499,7 +4508,7 @@ yeswehack.com
 api.yeswehack.com
 apps.yeswehack.com
 dojo-yeswehack.com
-serveur12.notebleue.com
+ywh.zcb.fr
 ywh.comptage.zecible.fr
 ywh.static.zecible.fr
 ywh.fichiers.zecible.fr
