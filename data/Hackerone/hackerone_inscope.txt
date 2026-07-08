@@ -459,10 +459,10 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 secure.netflix.com
+23andme.org
 23andmeresearchinstitute.org
 api.23andme.com
 auth.23andme.com
-blog.23andme.com
 discover.23andme.com
 education.23andme.com
 fulfillment.23andme.com
