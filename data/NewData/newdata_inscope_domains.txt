@@ -1,1 +1,2 @@
-23andme.org
+store.23andme.org
+style.23andme.org
