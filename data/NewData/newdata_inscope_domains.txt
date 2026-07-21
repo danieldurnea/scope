@@ -1,3 +1,6 @@
-core-api.deriv.com
-home.deriv.com
-api-core.deriv.com
+apix.vodafone.om
+om.vodafone.mva
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
+vodafone.om
