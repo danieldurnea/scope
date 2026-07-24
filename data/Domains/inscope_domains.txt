@@ -3724,7 +3724,6 @@ myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl
 parool.nl
-kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
@@ -4082,16 +4081,6 @@ mds.voiapp.io
 repair.voiweb.net
 report.voi.com
 voi.com
-app.getflywheel.com
-getflywheel.com
-my.wpengine.com
-payments.wpengine.com
-wpengine.com
-advancedcustomfields.com
-bettersearchreplace.com
-makeshift.film
-studiopress.blog
-torquemag.io
 desktop.water-link.be
 pit.water-link.be
 water-link-jaarverslag.be
