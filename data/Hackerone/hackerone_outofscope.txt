@@ -1,3 +1,9 @@
+blog.wolt.com
+wpengine.com
+gettest.wolt.com
+links.wolt.com
+press.wolt.com
+wolt.atlassian.net
 *.bandcamp.com
 *.corp.bandcamp.com
 *.popjam.com

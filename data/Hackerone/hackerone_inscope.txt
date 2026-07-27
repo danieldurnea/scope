@@ -1,3 +1,11 @@
+*.wolt.com
+wolt.com
+authentication.wolt.com
+corporate.wolt.com
+drive.wolt.com
+merchant.wolt.com
+ops.wolt.com
+restaurant-api.wolt.com
 agoda.com
 ads-partners.tw.coupang.com
 cart-front-api.tw.coupang.com
