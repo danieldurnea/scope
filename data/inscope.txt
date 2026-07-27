@@ -1042,7 +1042,6 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -4162,15 +4161,6 @@ premium.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
 pixiv.net
-cosmwasm.com
-docs.cosmos.network
-cosmos.network
-readme.md
-prometheus.io
-hermes.informal.systems
-crates.io
-ibc.cosmos.network
-releases.md
 sandbox.affirm.com
 crypto.com
 app.mona.co
@@ -4900,6 +4890,7 @@ aikidosecurity.aikido
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
+newsos.com
 politico.eu
 adtechnology.axelspringer.com
 bild.de
@@ -4939,15 +4930,6 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
-profiles-api.datacamp.com
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be

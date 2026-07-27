@@ -581,7 +581,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -2693,10 +2692,6 @@ support.chaturbate.com
 ads.pixiv.net
 factory.pixiv.net
 accounts.pixiv.net
-en.wikipedia.org
-launch-all.sh
-lavender.five
-user-images.githubusercontent.com
 investors.goodrx.com
 sso.identity.goodrx.com
 support.goodrx.com
@@ -3391,18 +3386,6 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 anchor.digitalocean.com
@@ -3478,6 +3461,8 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+rancher.ninjakiwi.com
+rancher.ninjakiwi.me
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de
@@ -3607,7 +3592,6 @@ lp.alasco.com
 support.alasco.de
 support.alasco.com
 blog.bitoasis.net
-dev.blablacar.com
 coindcx.com
 info.coindcx.com
 otcdesk.coindcx.com
