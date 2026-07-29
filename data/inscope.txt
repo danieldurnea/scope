@@ -349,7 +349,6 @@ sip.*.twilio.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
-*.varonis.net
 *.uat.unico.app
 *.nflxext.com
 *.nflximg.net
@@ -2649,6 +2648,7 @@ detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
 dev.stats.gleague.nba.com
+dev.stats.nba.com
 dream-dev.wnba.com
 dream-qa.wnba.com
 dream-qa2.wnba.com
@@ -2766,6 +2766,7 @@ ontario.gleague.nba.com
 portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
+qa.stats.nba.com
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
 raptors905.gleague.nba.com
@@ -2800,7 +2801,9 @@ sparks-qa2.wnba.com
 sparks.wnba.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
+stats-qa.gleague.nba.com
 stats-qa.nba.com
+stats-querytoolapi.nba.com
 stats-trafficcop-aws-dev.nba.com
 stats-trafficcop-aws-prod-east1.nba.com
 stats-trafficcop-aws-prod.nba.com
@@ -2821,6 +2824,8 @@ sun-dev.wnba.com
 sun-qa.wnba.com
 sun-qa2.wnba.com
 sun.wnba.com
+syndication-dev.nba.com
+syndication-qa.nba.com
 syndication.nba.com
 teamdirectory.nba.com
 teamportal.nba.com
@@ -2832,13 +2837,17 @@ valkyries-qa.wnba.com
 valkyries.wnba.com
 vote.nba.com
 vth.nba.com
+watch-ng.nba.com
+watch.global.nba.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings-qa2.wnba.com
 wings.wnba.com
+all.nba.com
 dev.nba.com
 dev.wnba.com
 ng.nba.com
+prod.nba.com
 qa.nba.com
 qa.wnba.com
 uat.nba.com
@@ -2853,6 +2862,10 @@ rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
+downloads.varonis.com
+licensemgmt.varonis.com
+my.varonis.com
+support.varonis.com
 portal.playground.klarna.com
 api.klarna.com
 app.klarna.com
@@ -3339,12 +3352,14 @@ myaccount-cn.payoneer.com
 myaccount.payoneer.com
 payoneer.com.cn
 api.moonpay.com
+api.moonx-dev.com
 api.paybox.sh
 app.moonpay.com
 app.paybox.sh
 auth.moonpay.com
 buy.moonpay.com
 hypermint.com
+iframe.moonx-dev.com
 moonpay.com
 sell.moonpay.com
 web3.moonpay.com
