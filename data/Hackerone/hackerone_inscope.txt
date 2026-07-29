@@ -1111,7 +1111,9 @@ payoneer.com.cn
 *.moonpay.com
 *.moonpaycloud.com
 api.moonpay.com
+api.paybox.sh
 app.moonpay.com
+app.paybox.sh
 auth.moonpay.com
 buy.moonpay.com
 hypermint.com

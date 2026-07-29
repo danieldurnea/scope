@@ -1,4 +1,2 @@
-lazzx4o5mh.execute-api.eu-west-1.amazonaws.com
-premogiftcards.com
-identity.majidalfuttaim.com
-identity.majidalfutaaim.com
+api.paybox.sh
+app.paybox.sh
