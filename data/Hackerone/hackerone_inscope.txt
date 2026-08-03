@@ -1581,8 +1581,14 @@ exodus.com
 passkeys.foundation
 wallet.passkeys.foundation
 my.passkeys.network
+api.passkeys.network
+embedded.passkeys.foundation
 exodus-movement.exodus
+login.exodus.com
+pay-admin.exodus.io
 pay.exodus.io
+relay.passkeys.foundation
+turing.exodus.io
 kubernetes-csi.github.io
 k8s.io
 *.k8s.io
