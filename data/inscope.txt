@@ -1041,7 +1041,6 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3767,6 +3766,7 @@ passkeys.foundation
 wallet.passkeys.foundation
 my.passkeys.network
 exodus-movement.exodus
+pay.exodus.io
 kubernetes-csi.github.io
 k8s.io
 storage.googleapis.com
@@ -5081,15 +5081,6 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
-profiles-api.datacamp.com
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
