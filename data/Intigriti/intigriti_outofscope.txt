@@ -122,6 +122,7 @@ login.internal.monzo.com
 monzo.me
 docs.moralis.io
 status.moralis.io
+static.nexuzhealth.com
 pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be

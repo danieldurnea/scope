@@ -3065,10 +3065,6 @@ tax.audible.com
 ads.temu.com
 seller.temu.com
 temu.com
-app.uma.money
-api.lightspark.com
-app.lightspark.com
-link.uma.me
 testnet.bybit.eu
 bybit.com
 byreal.io

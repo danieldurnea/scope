@@ -1656,7 +1656,6 @@ newsletters.audible.com
 omtrdc.net
 audiblecareers.com
 partners.vectra.ai
-support.lighstpark.com
 staging.travix.com
 stg.travix.com
 dev.travix.com
@@ -3472,6 +3471,7 @@ login.internal.monzo.com
 monzo.me
 docs.moralis.io
 status.moralis.io
+static.nexuzhealth.com
 pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
