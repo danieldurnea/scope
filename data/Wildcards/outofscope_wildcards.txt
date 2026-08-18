@@ -597,7 +597,6 @@ g.*.slackhq.com
 *.onstagingocean.app
 *.yadifa.eu
 *.swop.com
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -644,6 +643,7 @@ g.*.slackhq.com
 *.jpe.infomaniak.com
 *.infomaniak.cloud
 *.dbaas.infomaniak.cloud
+*.infomaniak.com
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com
