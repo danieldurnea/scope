@@ -987,7 +987,6 @@ ic3.*.indriverapp.com
 *.gitlap.com
 *.grok.com
 *.twimg.com
-*.twitter.biz
 *.twitter.com
 *.vine.co
 *.x.ai
