@@ -1,56 +1,106 @@
-# Downloading bugbounty-targets repo in zip
-wget -P arkadiyt -q https://github.com/arkadiyt/bounty-targets-data/archive/refs/heads/main.zip
-unzip -q arkadiyt/main.zip -d arkadiyt
+// ==UserScript==
+// @name         20 Burning Hot – 0.40 RON (Firefox PC)
+// @namespace    .
+// @version      4.0
+// @description  Auto-bet 0.40 RON | 20 Burning Hot | Firefox Desktop
+// @author       Grok
+// @match        *superbet.ro/*
+// @match        *superbet.ro/joc/*burning*
+// @match        */casino/*
+// @match        */slots/*
+// @grant        none
+// ==/UserScript==
 
-# Delete old files
-mv data old_data
+(function() {
+    'use strict';
 
-# Creating Required Directory
-mkdir -p data
-mkdir -p data/Bugcrowd
-mkdir -p data/Hackerone
-mkdir -p data/Intigriti
-mkdir -p data/Yeswehack
-mkdir -p data/Wildcards
-mkdir -p data/Domains
-mkdir -p data/NewData
+    // =============== SETĂRI ===============
+    const FIXED_BET     = 0.40;
+    const GAMBLE_MAX    = 2.00;
+    const GAMBLE_CHANCE = 0.65;
+    const INTERVAL      = 700;
+    const STOP_PROFIT   = 60;
+    const STOP_LOSS     = -40;
+    // ======================================
 
+    let isRunning = false;
+    let overlay = null;
+    let spinCount = 0;
+    let startBalance = null;
+    let profit = 0;
+    let showOverlay = true;
+    let lastAction = '';
 
-# Bugcrowd
-cat arkadiyt/bounty-targets-data-main/data/bugcrowd_data.json | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r '.[].targets.in_scope[] | .target, .uri, .name' | grep -oP '(\*-[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+(\.\*)?\.[a-zA-Z0-9]+(\.[a-zA-Z]{2,}))' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js|ios|apk|android|php|json|jsp|yaml|exe|html)$' | grep "\." | unew -el -t -i -q data/Bugcrowd/bugcrowd_inscope.txt
-cat arkadiyt/bounty-targets-data-main/data/bugcrowd_data.json | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r '.[].targets.out_of_scope[] | .target, .uri, .name' | grep -oP '(\*-[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+(\.\*)?\.[a-zA-Z0-9]+(\.[a-zA-Z]{2,}))' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js|ios|apk|android|php|json|jsp|yaml|exe|html)$' | grep "\." | unew -el -t -i -q data/Bugcrowd/bugcrowd_outofscope.txt
+    const sel = {
+        spin:    'button.spin, [data-action="spin"], .spin-button, button[aria-label*="spin" i]',
+        bet:     'input.bet-amount, input[type="number"], input[data-bet]',
+        balance: '.balance, .user-balance, [data-balance], .amount, .RON, .wallet-amount',
+        gamble:  'button.gamble, [data-action="gamble"], button:contains("Gamble")',
+        collect: 'button.collect, [data-action="collect"], button:contains("Collect")',
+        feature: '.feature-container, .bonus-feature, .free-spins, [class*="bonus"], [class*="feature"]'
+    };
 
+    function $(s) { return document.querySelector(s); }
 
-# Hackerone
-cat arkadiyt/bounty-targets-data-main/data/hackerone_data.json | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r '.[] | .targets.in_scope[] | select(.eligible_for_bounty==true) | .asset_identifier, .instruction' | grep -oP '(\*-[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+(\.\*)?\.[a-zA-Z0-9]+(\.[a-zA-Z]{2,}))' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js|ios|apk|android|php|json|jsp|yaml|exe|html)$' | grep "\." | unew -el -t -i -q data/Hackerone/hackerone_inscope.txt
-cat arkadiyt/bounty-targets-data-main/data/hackerone_data.json | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r '.[] | .targets.out_of_scope[] | select(.eligible_for_bounty==false) | .asset_identifier, .instruction' | grep -oP '(\*-[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+(\.\*)?\.[a-zA-Z0-9]+(\.[a-zA-Z]{2,}))' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js|ios|apk|android|php|json|jsp|yaml|exe|html)$' | grep "\." | unew -el -t -i -q data/Hackerone/hackerone_outofscope.txt
+    function getBalance() {
+        const el = $(sel.balance);
+        if (!el) return null;
+        return parseFloat(el.textContent.replace(/[^0-9.,-]/g, '').replace(',', '.')) || null;
+    }
 
+    function createOverlay() {
+        if (overlay) return;
+        overlay = document.createElement('div');
+        Object.assign(overlay.style, {
+            position: 'fixed',
+            bottom: '15px',
+            right: '15px',
+            zIndex: '999999',
+            background: 'rgba(0,0,0,0.88)',
+            color: '#0f0',
+            padding: '10px 14px',
+            borderRadius: '8px',
+            font: '13px Consolas, monospace',
+            lineHeight: '1.45',
+            border: '1px solid #0a0',
+            minWidth: '160px',
+            pointerEvents: 'none'
+        });
+        document.body.appendChild(overlay);
+    }
 
-# Intigriti
-cat arkadiyt/bounty-targets-data-main/data/intigriti_data.json | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r '.[] | .targets.in_scope[] | select(.impact!="No Bounty") | .endpoint' | grep -oP '(\*-[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+(\.\*)?\.[a-zA-Z0-9]+(\.[a-zA-Z]{2,}))' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js|ios|apk|android|php|json|jsp|yaml|exe|html)$' | grep "\." | unew -el -t -i -q data/Intigriti/intigriti_inscope.txt
-cat arkadiyt/bounty-targets-data-main/data/intigriti_data.json | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r '.[] | .targets.out_of_scope[] | select(.impact!="No Bounty") | .endpoint' | grep -oP '(\*-[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+(\.\*)?\.[a-zA-Z0-9]+(\.[a-zA-Z]{2,}))' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js|ios|apk|android|php|json|jsp|yaml|exe|html)$' | grep "\." | unew -el -t -i -q data/Intigriti/intigriti_outofscope.txt
+    function updateOverlay(msg = '') {
+        createOverlay();
+        const bal = getBalance();
+        if (bal !== null) {
+            if (startBalance === null) startBalance = bal;
+            profit = +(bal - startBalance).toFixed(2);
+        }
 
+        if (isRunning) {
+            if (STOP_PROFIT > 0 && profit >= STOP_PROFIT) {
+                isRunning = false;
+                msg = 'STOP PROFIT';
+            }
+            if (STOP_LOSS < 0 && profit <= STOP_LOSS) {
+                isRunning = false;
+                msg = 'STOP LOSS';
+            }
+        }
 
-# Yeswehack
-cat arkadiyt/bounty-targets-data-main/data/yeswehack_data.json | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r '.[].targets.in_scope[].target' | grep -oP '(\*-[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+(\.\*)?\.[a-zA-Z0-9]+(\.[a-zA-Z]{2,}))' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js|ios|apk|android|php|json|jsp|yaml|exe|html)$' | grep "\." | unew -el -t -i -q data/Yeswehack/yeswehack_inscope.txt
-cat arkadiyt/bounty-targets-data-main/data/yeswehack_data.json | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r '.[].targets.out_of_scope[].target' | grep -oP '(\*-[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+(\.\*)?\.[a-zA-Z0-9]+(\.[a-zA-Z]{2,}))' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js|ios|apk|android|php|json|jsp|yaml|exe|html)$' | grep "\." | unew -el -t -i -q data/Yeswehack/yeswehack_outofscope.txt
+        const status = isRunning ? '▶ RUNNING' : '⏹ STOPPED';
+        const col = profit >= 0 ? '#0f0' : '#f55';
 
+        overlay.innerHTML = `
+            <div style="color:#aaa;font-size:11px">${status}</div>
+            <div>Miză: <b>0.40</b> RON</div>
+            <div style="color:\( {col}">Profit: <b> \){profit >= 0 ? '+' : ''}${profit}</b></div>
+            <div>Spin-uri: ${spinCount}</div>
+            \( {msg ? `<div style="color:#ff0;margin-top:3px"> \){msg}</div>` : ''}
+            \( {lastAction ? `<div style="color:#888;font-size:11px"> \){lastAction}</div>` : ''}
+            <div style="color:#666;font-size:10px;margin-top:4px">F10 = Start/Stop | F11 = Overlay</div>
+        `;
+        overlay.style.opacity = showOverlay ? '1' : '0';
+    }
 
-# Wildcards
-cat data/Bugcrowd/bugcrowd_inscope.txt data/Hackerone/hackerone_inscope.txt data/Intigriti/intigriti_inscope.txt data/Yeswehack/yeswehack_inscope.txt | grep "*" | unew -el -t -i -q data/Wildcards/inscope_wildcards.txt
-cat data/Bugcrowd/bugcrowd_outofscope.txt data/Hackerone/hackerone_outofscope.txt data/Intigriti/intigriti_outofscope.txt data/Yeswehack/yeswehack_outofscope.txt | grep "*" | unew -el -t -i -q data/Wildcards/outofscope_wildcards.txt
-
-# Domains
-cat data/Bugcrowd/bugcrowd_inscope.txt data/Hackerone/hackerone_inscope.txt data/Intigriti/intigriti_inscope.txt data/Yeswehack/yeswehack_inscope.txt | grep -v "*" | unew -el -t -i -q data/Domains/inscope_domains.txt
-cat data/Bugcrowd/bugcrowd_outofscope.txt data/Hackerone/hackerone_outofscope.txt data/Intigriti/intigriti_outofscope.txt data/Yeswehack/yeswehack_outofscope.txt | grep -v "*" | unew -el -t -i -q data/Domains/outofscope_domains.txt
-
-
-# Generating Last Update data
-cat data/Wildcards/inscope_wildcards.txt | unew -el -t -i old_data/Wildcards/inscope_wildcards.txt | unew -el -t -i -q data/NewData/newdata_inscope_wildcards.txt && [ ! -s data/NewData/newdata_inscope_wildcards.txt ] && cat old_data/NewData/newdata_inscope_wildcards.txt | unew -el -t -i -q data/NewData/newdata_inscope_wildcards.txt
-cat data/Domains/inscope_domains.txt | unew -el -t -i old_data/Domains/inscope_domains.txt | unew -el -t -i -q data/NewData/newdata_inscope_domains.txt && [ ! -s data/NewData/newdata_inscope_domains.txt ] && cat old_data/NewData/newdata_inscope_domains.txt | unew -el -t -i -q data/NewData/newdata_inscope_domains.txt
-
-cat data/Wildcards/inscope_wildcards.txt data/Domains/inscope_domains.txt | unew -el -t -i -q data/inscope.txt
-cat data/Wildcards/outofscope_wildcards.txt data/Domains/outofscope_domains.txt | unew -el -t -i -q data/outofscope.txt
-
-# Deleting downloaded data
-rm -rf arkadiyt old_data
+    function setBet() {
