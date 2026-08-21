@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         20 Burning Hot – 0.40 RON (Firefox PC)
+// @name         20 Burning Hot – 0.40 RON (Chrome PC)
 // @namespace    .
-// @version      4.0
-// @description  Auto-bet 0.40 RON | 20 Burning Hot | Firefox Desktop
+// @version      4.1
+// @description  Auto-bet 0.40 RON | 20 Burning Hot | Chrome Desktop
 // @author       Grok
 // @match        *superbet.ro/*
 // @match        *superbet.ro/joc/*burning*
@@ -104,3 +104,82 @@
     }
 
     function setBet() {
+        const input = $(sel.bet);
+        if (!input) return;
+        input.value = FIXED_BET.toFixed(2);
+        input.dispatchEvent(new Event('input', { bubbles: true }));
+        input.dispatchEvent(new Event('change', { bubbles: true }));
+    }
+
+    function doAction() {
+        if (!isRunning) return;
+
+        if ($(sel.feature)) {
+            lastAction = 'FEATURE';
+            updateOverlay();
+            return;
+        }
+
+        const gambleBtn = $(sel.gamble);
+        if (gambleBtn && gambleBtn.offsetParent !== null) {
+            const winEl = document.querySelector('.last-win-amount, .win-value, .win-sum, .win-amount');
+            let lastWin = 0;
+            if (winEl) lastWin = parseFloat(winEl.textContent.replace(/[^0-9.]/g, '')) || 0;
+
+            if (lastWin > 0 && lastWin <= GAMBLE_MAX && Math.random() < GAMBLE_CHANCE) {
+                gambleBtn.click();
+                lastAction = 'GAMBLE';
+            } else {
+                const collect = $(sel.collect);
+                if (collect) collect.click();
+                lastAction = 'COLLECT';
+            }
+            updateOverlay();
+            return;
+        }
+
+        const spinBtn = $(sel.spin);
+        if (spinBtn && !spinBtn.disabled) {
+            setBet();
+            setTimeout(() => {
+                if (spinBtn && !spinBtn.disabled && isRunning) {
+                    spinBtn.click();
+                    spinCount++;
+                    lastAction = 'SPIN';
+                    updateOverlay();
+                }
+            }, 200 + Math.random() * 250);
+        }
+    }
+
+    // Hotkeys
+    document.addEventListener('keydown', e => {
+        if (e.key === 'F10') {
+            isRunning = !isRunning;
+            if (isRunning) {
+                startBalance = null;
+                spinCount = 0;
+                profit = 0;
+                lastAction = 'PORNIT';
+                console.log('%c[20 Burning Hot] BOT PORNIT – 0.40 RON', 'color:#0f0;font-size:14px');
+            } else {
+                lastAction = 'OPRIT';
+                console.log('%c[20 Burning Hot] BOT OPRIT', 'color:#f55;font-size:14px');
+            }
+            updateOverlay();
+        }
+
+        if (e.key === 'F11') {
+            showOverlay = !showOverlay;
+            updateOverlay();
+        }
+    });
+
+    setInterval(() => {
+        if (isRunning) doAction();
+    }, INTERVAL);
+
+    createOverlay();
+    updateOverlay('F10 = Start');
+    console.log('%c20 Burning Hot 0.40 RON (Chrome PC) gata\nF10 = Start/Stop\nF11 = Overlay', 'color:#0f0;font-size:13px');
+})();
