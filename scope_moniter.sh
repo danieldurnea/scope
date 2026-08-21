@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         20 Burning Hot – 0.40 RON (Chrome PC)
+// @name         20 Burning Hot – 0.40 RON (Chrome PC Fix)
 // @namespace    .
-// @version      4.1
-// @description  Auto-bet 0.40 RON | 20 Burning Hot | Chrome Desktop
+// @version      4.2
+// @description  Auto-bet 0.40 RON | 20 Burning Hot | Chrome | Ctrl+Shift+S
 // @author       Grok
 // @match        *superbet.ro/*
 // @match        *superbet.ro/joc/*burning*
@@ -25,6 +25,7 @@
 
     let isRunning = false;
     let overlay = null;
+    let btn = null;
     let spinCount = 0;
     let startBalance = null;
     let profit = 0;
@@ -48,13 +49,56 @@
         return parseFloat(el.textContent.replace(/[^0-9.,-]/g, '').replace(',', '.')) || null;
     }
 
+    // Buton pe ecran (ca să meargă sigur)
+    function createButton() {
+        if (btn) return;
+        btn = document.createElement('div');
+        btn.textContent = 'START';
+        Object.assign(btn.style, {
+            position: 'fixed',
+            bottom: '20px',
+            right: '20px',
+            zIndex: '9999999',
+            background: '#0a0',
+            color: '#fff',
+            padding: '12px 20px',
+            borderRadius: '8px',
+            font: 'bold 14px Arial',
+            boxShadow: '0 4px 12px rgba(0,0,0,0.4)',
+            cursor: 'pointer',
+            userSelect: 'none'
+        });
+
+        btn.addEventListener('click', toggleBot);
+        document.body.appendChild(btn);
+    }
+
+    function toggleBot() {
+        isRunning = !isRunning;
+        if (isRunning) {
+            startBalance = null;
+            spinCount = 0;
+            profit = 0;
+            lastAction = 'PORNIT';
+            btn.textContent = 'STOP';
+            btn.style.background = '#c00';
+            console.log('%c[20 Burning Hot] BOT PORNIT', 'color:#0f0;font-size:14px');
+        } else {
+            lastAction = 'OPRIT';
+            btn.textContent = 'START';
+            btn.style.background = '#0a0';
+            console.log('%c[20 Burning Hot] BOT OPRIT', 'color:#f55;font-size:14px');
+        }
+        updateOverlay();
+    }
+
     function createOverlay() {
         if (overlay) return;
         overlay = document.createElement('div');
         Object.assign(overlay.style, {
             position: 'fixed',
-            bottom: '15px',
-            right: '15px',
+            bottom: '70px',
+            right: '20px',
             zIndex: '999999',
             background: 'rgba(0,0,0,0.88)',
             color: '#0f0',
@@ -80,10 +124,14 @@
         if (isRunning) {
             if (STOP_PROFIT > 0 && profit >= STOP_PROFIT) {
                 isRunning = false;
+                btn.textContent = 'START';
+                btn.style.background = '#0a0';
                 msg = 'STOP PROFIT';
             }
             if (STOP_LOSS < 0 && profit <= STOP_LOSS) {
                 isRunning = false;
+                btn.textContent = 'START';
+                btn.style.background = '#0a0';
                 msg = 'STOP LOSS';
             }
         }
@@ -98,7 +146,7 @@
             <div>Spin-uri: ${spinCount}</div>
             \( {msg ? `<div style="color:#ff0;margin-top:3px"> \){msg}</div>` : ''}
             \( {lastAction ? `<div style="color:#888;font-size:11px"> \){lastAction}</div>` : ''}
-            <div style="color:#666;font-size:10px;margin-top:4px">F10 = Start/Stop | F11 = Overlay</div>
+            <div style="color:#666;font-size:10px;margin-top:4px">Ctrl+Shift+S = Start/Stop</div>
         `;
         overlay.style.opacity = showOverlay ? '1' : '0';
     }
@@ -152,24 +200,14 @@
         }
     }
 
-    // Hotkeys
+    // Taste noi (Ctrl + Shift + S)
     document.addEventListener('keydown', e => {
-        if (e.key === 'F10') {
-            isRunning = !isRunning;
-            if (isRunning) {
-                startBalance = null;
-                spinCount = 0;
-                profit = 0;
-                lastAction = 'PORNIT';
-                console.log('%c[20 Burning Hot] BOT PORNIT – 0.40 RON', 'color:#0f0;font-size:14px');
-            } else {
-                lastAction = 'OPRIT';
-                console.log('%c[20 Burning Hot] BOT OPRIT', 'color:#f55;font-size:14px');
-            }
-            updateOverlay();
+        if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === 's') {
+            e.preventDefault();
+            toggleBot();
         }
-
-        if (e.key === 'F11') {
+        if (e.ctrlKey && e.shiftKey && e.key.toLowerCase() === 'o') {
+            e.preventDefault();
             showOverlay = !showOverlay;
             updateOverlay();
         }
@@ -179,7 +217,7 @@
         if (isRunning) doAction();
     }, INTERVAL);
 
+    createButton();
     createOverlay();
-    updateOverlay('F10 = Start');
-    console.log('%c20 Burning Hot 0.40 RON (Chrome PC) gata\nF10 = Start/Stop\nF11 = Overlay', 'color:#0f0;font-size:13px');
+    updateOverlay('Apasă butonul START sau Ctrl+Shift+S');
 })();
